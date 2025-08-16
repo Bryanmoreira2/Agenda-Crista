@@ -1,0 +1,19 @@
+# Ignorar node_modules da pasta api
+/api/node_modules
+
+# Ignorar node_modules da pasta spa
+/spa/node_modules
+
+
+
+# Ignorar diretórios de compilação e dependências
+dist/
+build/
+
+# Ignorar arquivos do sistema operacional (ex: macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de configuração de IDE (ex: VSCode, IntelliJ)
+.vscode/
+.idea/
